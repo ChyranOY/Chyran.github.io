@@ -3,7 +3,7 @@ title: "Composite-rotating consensus of leaderless multi-agent systems with time
 collection: publications
 category: conferences
 permalink: /publication/2018-10-paper-title-number-1
-excerpt: ''
+excerpt: '1'
 date: 2018-10
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
