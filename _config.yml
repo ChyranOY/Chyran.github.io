@@ -13,7 +13,7 @@ title                    : "Chyran Ouyang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://chyranoy.github.io/
+url                      : https://chyranoy.github.io/Chyran.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
