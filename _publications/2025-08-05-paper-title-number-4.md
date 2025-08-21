@@ -1,5 +1,5 @@
 ---
-title: "Model detection for grey forecasting model with polynomial term"
+title: "A novel network for resolving subjective masking differences and accurate thyroid nodule diagnosis"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-05-paper-title-number-4
