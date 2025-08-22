@@ -1,5 +1,5 @@
 ---
-title: "Model detection for grey forecasting model with polynomial term"
+title: "A novel grey fractional model based on model averaging for forecasting time series"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-17-paper-title-number-3
